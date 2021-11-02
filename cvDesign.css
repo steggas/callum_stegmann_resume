@@ -1,0 +1,67 @@
+header {
+    text-align: center;
+    padding: -10%;
+    font-size: 150%;
+    color: #3385FF;
+    background-color: rgb(66, 5, 165);
+}
+
+
+img {
+     width: 180px; /* width of container */
+    height: 250px; /* height of container */
+    object-fit: cover;
+    border: 3px solid rgb(157, 175, 235);
+    margin-left: 44%;
+    
+    
+    
+}
+
+
+h3 {
+    text-align: left;
+    font-size: 24px;
+    color: rgb(44, 129, 199);
+    margin-left: 45%;
+}
+
+p {
+    text-align: left;
+    font-weight:bold;
+    font-family: fantasy;
+    color: rgb(157, 175, 235);
+    margin-left:48%;
+}
+ul {
+    font-size: 14px;
+    color: rgb(157, 175, 235);
+    text-align: left;
+    margin-left: 50%;
+}
+#container {
+    display: grid;
+    background-color: rgb(66, 5, 165);
+}
+a {
+    color: rgb(126, 132, 150);
+}
+#jobDescription {
+    color: #3385FF;
+}
+
+footer {
+    background-color: rgb(66, 5, 165);
+}
+h4 {
+    text-align: center;
+    font-weight:bold;
+    font-family: fantasy;
+    color: rgb(157, 175, 235);
+}
+h2 {
+    text-align: center;
+    font-size: 24px;
+    color: rgb(44, 129, 199);
+
+}
